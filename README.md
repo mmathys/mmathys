@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ✨ some of my personal and university projects:
 
-- [acfts](https://github.com/mmathys/acfts): asynchronous consensus-free transaction system, [arXiv](https://arxiv.org/abs/2108.05236)
+- [acfts](https://github.com/mmathys/acfts): asynchronous consensus-free transaction system, published at ESORICS 2022 [arXiv](https://arxiv.org/abs/2108.05236)
 - [merkle-signature](https://github.com/mmathys/merkle-signature): a fast implementation of a merkle signature written in Go.
 - [malloc-lab](https://github.com/mmathys/malloc-lab): Implementation of malloc with explicit free lists, written in C, part of the computer systems course at ETH Zurich.
 - [dht-crawler](https://github.com/mmathys/dht-crawler): crawls hosts on the BitTorrent network using DHT.
