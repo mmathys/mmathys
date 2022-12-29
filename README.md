@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ✨ some of my personal and university projects:
 
+- [sphere-tracer](https://github.com/mmathys/sphere-tracer): C implementation of a sphere tracer optimized for maximal single-core performance. Using Intel's AVX2 with ray- and object-parallelization.
 - [acfts](https://github.com/mmathys/acfts): asynchronous consensus-free transaction system, published at ESORICS 2022 ([arXiv](https://arxiv.org/abs/2108.05236))
 - [merkle-signature](https://github.com/mmathys/merkle-signature): a fast implementation of a merkle signature written in Go.
 - [malloc-lab](https://github.com/mmathys/malloc-lab): Implementation of malloc with explicit free lists, written in C, part of the computer systems course at ETH Zurich.
