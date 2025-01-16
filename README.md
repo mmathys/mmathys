@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ✨ some of my personal and work projects:
 
 - [Gandalf](https://gandalf.lakera.ai): LLM security/prompt injection challenge.
-  - Part of the core team that created the Gandalf challenge in 2023.
-  - Featured in [TechCrunch](https://techcrunch.com/2023/10/12/lakera-launches-to-protect-large-language-models-from-malicious-prompts/), [Fortune](https://fortune.com/2024/07/24/lakera-20-million-funding-ai-chatbot-security/), [Sifted](https://sifted.eu/articles/atomico-gandalf-lakera-raise-news), [HN](https://news.ycombinator.com/item?id=35905876), Harvard CS50.
   - Played by over 750k+ unique players and collected over 23M+ attacks.
+  - Part of the core team that created the Gandalf challenge in 2023.
+  - Featured in [TechCrunch](https://techcrunch.com/2023/10/12/lakera-launches-to-protect-large-language-models-from-malicious-prompts/), [Fortune](https://fortune.com/2024/07/24/lakera-20-million-funding-ai-chatbot-security/), [Sifted](https://sifted.eu/articles/atomico-gandalf-lakera-raise-news), [HN](https://news.ycombinator.com/item?id=35905876), Harvard CS50, [Microsoft Build 2024](https://youtu.be/zFRn_RMSPI4?si=qiGFyNDqFTsYjtZB&t=1775).
   - Invited by Harvard's CS50, RSAC conference 2024.
 - [merkle-signature](https://github.com/mmathys/merkle-signature): a fast implementation of merkle signatures with Curve25519 written in Go.
 
