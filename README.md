@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ some of my personal and university projects:
+✨ some of my personal and work projects:
 
 - [Gandalf](https://gandalf.lakera.ai): LLM security/prompt injection challenge.
   - Part of the core team that created the Gandalf challenge in 2023.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - Invited by Harvard's CS50, RSAC conference 2024.
 - [merkle-signature](https://github.com/mmathys/merkle-signature): a fast implementation of merkle signatures with Curve25519 written in Go.
 
-University projects:
+🎓 university projects:
 
 - [sphere-tracer](https://github.com/mmathys/sphere-tracer): C implementation of a sphere tracer optimized for maximal single-core performance. Using Intel's AVX2 SIMD with object- or ray-parallelization ([report](https://github.com/mmathys/sphere-tracer/blob/main/07_report.pdf)).
 - [acfts](https://github.com/mmathys/acfts): asynchronous consensus-free transaction system, published at ESORICS 2022 ([arXiv](https://arxiv.org/abs/2108.05236)).
