@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ✨ some of my personal and university projects:
 
-- [Gandalf][https://gandalf.lakera.ai]]: LLM security/prompt injection challenge.
+- [Gandalf](https://gandalf.lakera.ai): LLM security/prompt injection challenge.
   - Part of the core team that created the Gandalf challenge in 2023.
   - Featured in [TechCrunch](https://techcrunch.com/2023/10/12/lakera-launches-to-protect-large-language-models-from-malicious-prompts/), [Sifted](https://sifted.eu/articles/atomico-gandalf-lakera-raise-news), Harvard CS50.
   - Played by over 750k+ unique players and collected over 23M+ attacks.
