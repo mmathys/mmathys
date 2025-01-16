@@ -21,9 +21,12 @@ Here are some ideas to get you started:
   - Part of the core team that created the Gandalf challenge in 2023.
   - Featured in [TechCrunch](https://techcrunch.com/2023/10/12/lakera-launches-to-protect-large-language-models-from-malicious-prompts/), [Sifted](https://sifted.eu/articles/atomico-gandalf-lakera-raise-news), Harvard CS50.
   - Played by over 750k+ unique players and collected over 23M+ attacks.
+- [merkle-signature](https://github.com/mmathys/merkle-signature): a fast implementation of merkle signatures with Curve25519 written in Go.
+
+University projects:
+
 - [sphere-tracer](https://github.com/mmathys/sphere-tracer): C implementation of a sphere tracer optimized for maximal single-core performance. Using Intel's AVX2 SIMD with object- or ray-parallelization ([report](https://github.com/mmathys/sphere-tracer/blob/main/07_report.pdf)).
 - [acfts](https://github.com/mmathys/acfts): asynchronous consensus-free transaction system, published at ESORICS 2022 ([arXiv](https://arxiv.org/abs/2108.05236)).
-- [merkle-signature](https://github.com/mmathys/merkle-signature): a fast implementation of merkle signatures with Curve25519 written in Go.
 - [malloc-lab](https://github.com/mmathys/malloc-lab): implementation of `malloc` with explicit free lists, written in C.
 - [dht-crawler](https://github.com/mmathys/dht-crawler): crawls hosts on the BitTorrent network using DHT.
 - [applied-crypto](https://github.com/mmathys/applied-crypto): Applied Cryptography lab at ETH Zurich.
