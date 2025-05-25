@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - Invited to create versions of Gandalf for Harvard's CS50 and [RSAC conference 2024](https://www.lakera.ai/event/rsac-gandalf-challenge-insights-from-the-worlds-largest-red-team).
 - [merkle-signature](https://github.com/mmathys/merkle-signature): a fast implementation of merkle signatures with Curve25519 written in Go.
 - [dht-crawler](https://github.com/mmathys/dht-crawler): crawls hosts on the BitTorrent network using DHT.
+- [PINT v2 Benchmark](https://github.com/lakeraai/pint-benchmark): Prompt Injection Benchmark
 
 🎓 university projects:
 
