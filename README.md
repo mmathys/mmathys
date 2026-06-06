@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🌟 research:
 
-- [AI Security Research](https://b3.lakera.ai/): A security benchmark measuring how backbone LLM choice affects AI agent resilience against adversarial attacks, built on 194,331 unique crowdsourced attacks from real human red-teamers on Gandalf: Agent Breaker.
+- [AI Security Research](https://arxiv.org/pdf/2510.22620): A security benchmark measuring how backbone LLM choice affects AI agent resilience against adversarial attacks, built on 194,331 unique crowdsourced attacks from real human red-teamers on Gandalf: Agent Breaker.
 
 🎓 university projects:
 
