@@ -34,5 +34,3 @@ Here are some ideas to get you started:
 
 - [sphere-tracer](https://github.com/mmathys/sphere-tracer): C implementation of a sphere tracer optimized for maximal single-core performance. Using Intel's AVX2 SIMD with object- or ray-parallelization ([report](https://github.com/mmathys/sphere-tracer/blob/main/07_report.pdf)).
 - [acfts](https://github.com/mmathys/acfts): asynchronous consensus-free transaction system, published at ESORICS 2022 ([arXiv](https://arxiv.org/abs/2108.05236)).
-- [malloc-lab](https://github.com/mmathys/malloc-lab): implementation of `malloc` with explicit free lists, written in C.
-
