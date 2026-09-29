@@ -29,8 +29,3 @@ Here are some ideas to get you started:
 🌟 research:
 
 - [AI Security Research](https://arxiv.org/pdf/2510.22620): A security benchmark measuring how backbone LLM choice affects AI agent resilience against adversarial attacks, built on 194,331 unique crowdsourced attacks from real human red-teamers on Gandalf: Agent Breaker.
-
-🎓 university projects:
-
-- [sphere-tracer](https://github.com/mmathys/sphere-tracer): C implementation of a sphere tracer optimized for maximal single-core performance. Using Intel's AVX2 SIMD with object- or ray-parallelization ([report](https://github.com/mmathys/sphere-tracer/blob/main/07_report.pdf)).
-- [acfts](https://github.com/mmathys/acfts): asynchronous consensus-free transaction system, published at ESORICS 2022 ([arXiv](https://arxiv.org/abs/2108.05236)).
