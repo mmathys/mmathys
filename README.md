@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 🌟 research:
 
-- [Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://arxiv.org/abs/2510.22620) (b³ benchmark): how the choice of backbone LLM affects AI agent security, built on 194,331 unique crowdsourced attacks from real human red-teamers on Gandalf: Agent Breaker.
+- [Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://arxiv.org/abs/2510.22620) ([b³ benchmark](https://b3.lakera.ai/)): how the choice of backbone LLM affects AI agent security, built on 194,331 unique crowdsourced attacks from real human red-teamers on Gandalf: Agent Breaker.
