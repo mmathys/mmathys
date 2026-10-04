@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ✨ some of my projects and research:
 
-- [b³ benchmark](https://b3.lakera.ai/) ([paper](https://arxiv.org/abs/2510.22620)): an LLM security benchmark in an agentic context
+- [b³ benchmark](https://b3.lakera.ai/) ([paper](https://arxiv.org/abs/2510.22620)): LLM security benchmarks. Measures backbone LLM security in an agentic context.
 - [Gandalf](https://gandalf.lakera.ai): LLM security/prompt injection challenge, [see my blog post here](https://www.lakera.ai/blog/who-is-gandalf)
   - Running one of the largest prompt-injection red-teams in the world
   - Co-created the Gandalf challenge in 2023
