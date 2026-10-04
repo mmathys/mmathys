@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ some of my personal and work projects:
+✨ some of my projects:
 
 - [Gandalf](https://gandalf.lakera.ai): LLM security/prompt injection challenge, [see my blog post here](https://www.lakera.ai/blog/who-is-gandalf)
   - Running one of the largest prompt-injection red-teams in the world
