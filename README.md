@@ -24,8 +24,9 @@ Here are some ideas to get you started:
   - Featured in [TechCrunch](https://techcrunch.com/2023/10/12/lakera-launches-to-protect-large-language-models-from-malicious-prompts/), [Fortune](https://fortune.com/2024/07/24/lakera-20-million-funding-ai-chatbot-security/), [Sifted](https://sifted.eu/articles/atomico-gandalf-lakera-raise-news), [HN](https://news.ycombinator.com/item?id=35905876), [Harvard CS50](https://cs50.harvard.edu/x/2023/ready/), [Microsoft Build 2024](https://youtu.be/zFRn_RMSPI4?si=qiGFyNDqFTsYjtZB&t=1775).
   - Invited to create versions of Gandalf for Harvard's CS50 and [RSAC conference 2024](https://www.lakera.ai/event/rsac-gandalf-challenge-insights-from-the-worlds-largest-red-team).
 - [Lakera Guard](https://www.lakera.ai/): building models defending prompt injection attacks and safeguarding agentic AI
+- [b³ benchmark](https://b3.lakera.ai/) ([paper](https://arxiv.org/abs/2510.22620)): an LLM security benchmark in an agentic context
 - [merkle-signature](https://github.com/mmathys/merkle-signature): a fast implementation of merkle signatures with Curve25519 written in Go.
 
 🌟 research:
 
-- [AI Security Research](https://arxiv.org/pdf/2510.22620): A security benchmark measuring how backbone LLM choice affects AI agent resilience against adversarial attacks, built on 194,331 unique crowdsourced attacks from real human red-teamers on Gandalf: Agent Breaker.
+- [Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://arxiv.org/abs/2510.22620) (b³ benchmark): how the choice of backbone LLM affects AI agent security, built on 194,331 unique crowdsourced attacks from real human red-teamers on Gandalf: Agent Breaker.
