@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   - Invited to create versions of Gandalf for Harvard's CS50 and [RSAC conference 2024](https://www.lakera.ai/event/rsac-gandalf-challenge-insights-from-the-worlds-largest-red-team).
 - [Lakera Guard](https://www.lakera.ai/): building models defending prompt injection attacks and safeguarding agentic AI
 - [b³ benchmark](https://b3.lakera.ai/) ([paper](https://arxiv.org/abs/2510.22620)): an LLM security benchmark in an agentic context
-- [merkle-signature](https://github.com/mmathys/merkle-signature): a fast implementation of merkle signatures with Curve25519 written in Go.
 
 🌟 research:
 
